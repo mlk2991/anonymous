@@ -2,7 +2,7 @@
 Tips on how to be (almost) anonymous online
 ===========================================
 
-**Attention:** these tips are for informational purposes.
+**Disclaimer:** these tips are for informational purposes.
 
 .. contents:: **Table of Contents**
    :depth: 5
