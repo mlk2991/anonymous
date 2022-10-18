@@ -12,10 +12,9 @@ Tips on how to be (almost) anonymous online
 Methods to be anonymous
 =======================
 VPNs
-====
-Tips to follow to avoid being easily identified
------------------------------------------------
+----
+.. Tips to follow to avoid being easily identified
+
 Tor
-===
-Tips to follow to avoid being easily identified
------------------------------------------------
+---
+.. Tips to follow to avoid being easily identified
