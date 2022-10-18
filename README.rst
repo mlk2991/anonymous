@@ -9,8 +9,9 @@ Tips on how to be (almost) anonymous online
    :local:
    :backlinks: top
    
-Methods to be anonymous
-=======================
+Methods
+=======
+.. Methods to be anonymous
 VPNs
 ----
 .. Tips to follow to avoid being easily identified
