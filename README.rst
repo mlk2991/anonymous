@@ -149,7 +149,7 @@ anonymity through the VPN.
 
 Use Tails
 ---------
-Search `Tails <https://en.wikipedia.org/wiki/Tails_(operating_system)>`_ with your favorite non-tracking search engine but only when connected to Tor.  
+Search `Tails <https://en.wikipedia.org/wiki/Tails_(operating_system)>`_ with your favorite non-tracking search engine via Tor.  
 
 **Tails doesn't work on smartphones or tablets.**
 
