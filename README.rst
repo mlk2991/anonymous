@@ -127,6 +127,17 @@ close to where you live. This piece of data could be correlated with
 other bits of data (e.g. timestamps of emails you sent) to eventually 
 unmask your real identity.
 
+**NOTE:**
+
+ Keep in mind that repressive governments have tremendous power to move 
+ earth and mountains to find all the breadcrumbs* you leave behind on
+ your journey through the internet and piece them all together to 
+ reveal who you really are.
+
+.. TODO: add as footnote
+* even if they might seem insignificant at first glance (e.g. an 
+innocuous picture you liked on twitter) might haunt you down the line
+
 3.5 Avoid closed-source software, especially anything Google-related
 --------------------------------------------------------------------
  Closed-source software is easier for the NSA to backdoor than 
