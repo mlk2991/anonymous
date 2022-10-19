@@ -33,7 +33,7 @@ anonymity as much as possible.
 
 **IMPORTANT tip:** Always think of your anonymity in terms of layers. Put as many layers
 between your person and the site you are reaching with Tor. If one layer of 
-security falls, then your anonymity can still salvaged.
+security falls, then your anonymity can still be salvaged.
 
 Tor settings
 ============
