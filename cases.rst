@@ -9,6 +9,8 @@ How Criminals Were Caught Even Though They Used Strong Security Software
 
 Signal
 ======
+Retired Green Beret arrested on Capitol siege charge (2021)
+-----------------------------------------------------------
 
 Tor
 ===
