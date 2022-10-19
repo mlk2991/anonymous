@@ -31,6 +31,10 @@ Be super paranoid
 This state of mind might be overkill but will eventually protect your 
 anonymity as much as possible.
 
+**IMPORTANT tip:** Always think of your anonymity in terms of layers. Put as many layers
+between your person and the site you are reaching with Tor. If one layer of 
+security falls, then your anonymity can still salvaged.
+
 Tor settings
 ============
 Prioritze .onion sites when known
@@ -73,6 +77,10 @@ Tor but they are the worst, just ask `Assange <https://www.amazon.com/When-Googl
 
 Facebook, Apple and Microsoft\* are the other evil companies you must stay clear
 if you value your anonymity.
+
+Since you are super paranoid (see tip #1 above), just assume that any software
+coming from these satanic companies are riddled with 
+zero-day exploits that are just waiting to be activated to get you uniquely identify.
 
 \* Unfortunately GitHub joined the dark force. Some might take this repo as 
 a way of protesting against the system directly from the enemy's den.
