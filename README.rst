@@ -1,6 +1,6 @@
-===========================================
-Tips on how to be (almost) anonymous online
-===========================================
+====================================================
+Tips on how to be (almost) anonymous online with Tor
+====================================================
 
 **Disclaimer:** these tips are for informational purposes.
 
@@ -8,14 +8,6 @@ Tips on how to be (almost) anonymous online
    :depth: 5
    :local:
    :backlinks: top
-   
-Methods
-=======
-.. Methods to be anonymous
-VPNs
-----
-.. Tips to follow to avoid being easily identified
 
-Tor
----
+.. Methods to be anonymous
 .. Tips to follow to avoid being easily identified
