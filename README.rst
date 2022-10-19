@@ -16,6 +16,16 @@ might not expose your real IP address but when it is used with/within other comp
 Thus we can say that the problem is not with the tool per se but how you use it with
 other tools.
 
+Finally, it is important to stress that these tips could be useful to activists or journalists
+living in repressive regimes who just want to safely communicate with the outside world.
+Any bit of personal information that they leak when going online could spell disaster and
+thus they have all the incentive to follow the stringent directives when using Tor.
+
+.. TODO: add as footnote
+It has become almost cliche to say it but Tor is like any other tool that can be
+used by anyone for whatever uses (positive or negative). However, the media tends to 
+focus more on the negative aspects of Tor because it attracts more clicks.
+
  **To be anonymous with Tor is serious business as you can tell from the following long and forever incomplete list of tips.**
 
 .. contents:: **Table of Contents**
@@ -85,6 +95,7 @@ Since you are super paranoid (see tip #1 above), just assume that any software
 coming from these satanic companies are riddled with 
 zero-day exploits that are just waiting to be activated to get you uniquely identify.
 
+.. TODO: add as footnote
 \* Unfortunately GitHub joined the dark force. Some might take this repo as 
 a way of protesting against the system directly from the enemy's den.
 
@@ -105,6 +116,8 @@ to analyze. Thus Tor and Bitcoin is a bad combo if you highly value your privacy
 
 Grand Master level tips
 =======================
+Spoof you MAC address
+---------------------
 Combine Tor with a VPN
 ----------------------
 Check that the `VPN <https://en.wikipedia.org/wiki/VPN_service>`_ you are using don't keep 
@@ -121,8 +134,17 @@ Use Tails
 ---------
 Search `Tails <https://en.wikipedia.org/wiki/Tails_(operating_system)>`_ with your favorite non-tracking search engine but only when connected to Tor.  
 
+**Tails doesn't work on smartphones or tablets.**
+
+Use a disposable device
+-----------------------
+Don't connect to Tor through your main computer that you use daily but use another
+computer with Tails.
+
+
 Use a Yagi WiFi antenna
 -----------------------
-If you are connecting to Tor, you might be the only one in your building that does so and
+If you are connecting through a WiFi network shared by your whole building, 
+you might be the only one in your building that uses Tor and
 hence you can be held suspect by those that are monitoring your internet connection. This 
 is where the Yagi WiFi antenna might come in handy to deflect attention to somewhere else.
