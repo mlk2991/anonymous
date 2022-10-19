@@ -102,7 +102,7 @@ don't inadvertently login to one of your personal accounts.
 3.2 Don't readily open any file (e.g. PDF, pictures, videos) no matter who sent it
 ----------------------------------------------------------------------------------
 
-If you need to open the file, do it on a controlled computer where the 
+If you need to open the file, do it on an air gap computer where the 
 **WiFi is turned off.** Then check the file with a packet analyzer (e.g. 
 Wireshark) by looking if it tries to communicate with the outside world. 
 If it does, you dodged a bullet but then the fun begins to investigate 
