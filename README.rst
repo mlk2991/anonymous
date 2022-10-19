@@ -53,7 +53,7 @@ Avoid tracking software, especially anything Google-related
 -----------------------------------------------------------
 Avoid anything that Google produces like the plague! Of course, they
 are not the only ones you need to absolutely avoid when using
-to Tor but they are the worst, just ask `Assange <https://www.amazon.com/When-Google-WikiLeaks-Julian-Assange/dp/1944869115>`_!
+Tor but they are the worst, just ask `Assange <https://www.amazon.com/When-Google-WikiLeaks-Julian-Assange/dp/1944869115>`_!
 
 Facebook, Apple and Microsoft\* are the other evil companies you must stay clear
 if you value your anonymity.
