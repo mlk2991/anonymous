@@ -55,7 +55,7 @@ be of use. The Grand Master Level tips will be too overkill to implement in this
 This state of mind might be overkill but will eventually protect your 
 anonymity as much as possible.
 
-**Important tip:** Always think of your anonymity in terms of layers. Put as many layers as you wich
+**Important tip:** Always think of your anonymity in terms of layers. Put as many layers as you wish
 between yourself and the site you are reaching with Tor (e.g. Tor+VPN+Yagi-antenna). If 
 one layer of security falls, then your anonymity can still be salvaged.
 
