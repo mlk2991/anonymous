@@ -12,6 +12,12 @@ purposes. Don't use it to break the law.
 
 Signal
 ======
+.. raw:: html
+   
+   <p align="center">
+    <img src="https://www.wizcase.com/wp-content/uploads/2019/05/Signal-Private-Messenger-App-678x381.jpg" width="387" height="217">
+   </p>
+
 Retired Green Beret arrested on Capitol siege charge (2021)
 -----------------------------------------------------------
 **News articles:**
