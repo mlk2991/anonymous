@@ -2,7 +2,7 @@
 Tips on how to be (almost) anonymous with Tor
 =============================================
 
-**Disclaimer:** these tips are for informational purposes.
+**Disclaimer:** these tips are for informational purposes. Don't break the law.
 
 .. contents:: **Table of Contents**
    :depth: 5
@@ -75,5 +75,5 @@ Search `Tails <https://en.wikipedia.org/wiki/Tails_(operating_system)>`_ with yo
 Use a Yagi WiFi antenna
 -----------------------
 If you are connecting to Tor, you might be the only one in your building that does so and
-hence you can be held suspect. This is where the Yagi WiFi antenna might come in handy to 
-deflect attention to somewhere else. 
+hence you can be held suspect by those that are monitoring your internet connection. This 
+is where the Yagi WiFi antenna might come in handy to deflect attention to somewhere else.
