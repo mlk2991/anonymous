@@ -170,8 +170,6 @@ Use a Yagi WiFi antenna
 -----------------------
 If you are connecting through a WiFi network shared by multiple people, 
 you might be the only one in the group that uses Tor and
-hence you can be held suspect by those that are monitoring your internet connection\*. This 
+hence you can be held suspect by those that are monitoring your internet connection. This 
 is where the `Yagi WiFi antenna <https://www.amazon.com/tupavco-tp513-antenna-2-4ghz-17dbi/dp/b008z4i7wq>`_ 
 might come in handy to deflect attention to somewhere else.
-
-\* See for instance, the `Harvard bomb hoax (2013) <https://www.dailydot.com/unclick/tor-harvard-bomb-suspect/>`_
