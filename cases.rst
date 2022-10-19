@@ -39,11 +39,11 @@ cooperate with the authorities by revealing the encrypted messages, then
 it doesn't matter that you are using the most advanced encrypted texting 
 app in the world.
 
-If a member of a chat group on Signal (or from any other encrypted messaging
-app like Telegram) uses very weak security on their phone (easy or no 
+If members of a chat group on Signal (or from any other encrypted messaging
+app like Telegram) use very weak security on their phone (easy or no 
 password) and `they locally saved lots of screenshots of conversations 
 from Signal <https://www.reddit.com/r/signal/comments/l0jqc0/can_you_block_others_from_taking_a_screenshot_of/>`_, 
-then you better pray that they don't loose their phone.
+then you better pray that they don't loose their phones.
 
 Do you trust the members of your chat group with sensitive information?
 
