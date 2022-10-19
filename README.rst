@@ -43,7 +43,7 @@ are aiming for when going online. For instance, if you are a journalist that
 is exposing your repressive government, then all tips might be necessary to follow
 if you want to avoid being uniquely identified.
 
-But if you are a simple citizen that wants to avoid being incessantly tracked 
+But if you are an ordinary citizen that wants to avoid being incessantly tracked 
 online by Google et al. without doing anything illegal (e.g. just reading your news
 from anywhere in peace), then only some of the tips at the Master Level will 
 be of use. The Grand Master Level tips will be too overkill to implement in this case.
