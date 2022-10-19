@@ -4,6 +4,15 @@ Tips on how to be (almost) anonymous with Tor
 
 **Disclaimer:** these tips are for informational purposes. Don't use them to break the law.
 
+These tips are for avoiding being easily identified when using Tor, i.e. they will
+help you to avoid leaking all kinds of information that might uniquely
+identify you. 
+
+Always keep in mind that there are no foolproof tool that will provide you with
+privacy and anonymity in 100% of cases. Tor is an anonymous software that individually
+might not expose your real IP address but when used with/within other complex systems 
+(e.g. OS, USB devices), this is where things might get ugly.
+
 .. contents:: **Table of Contents**
    :depth: 5
    :local:
@@ -73,6 +82,10 @@ Main differences between Bitcoin and Monero:
  and transparent.
  
  `Source <https://en.wikipedia.org/wiki/Monero#Privacy>`_
+
+If you are using Bitcoin, you might be easily identified through
+your Bitcoin transactions that are publically available for anyone (e.g. data analytics firms) 
+to analyze. Thus Tor and Bitcoin is a bad combo if you value your privacy and anonymity.
 
 Grand Master level tips
 =======================
