@@ -245,3 +245,18 @@ you might be the only one in the group that uses Tor and hence you can
 be held suspect by those that are monitoring your internet connection. 
 This is where the `Yagi WiFi antenna <https://www.amazon.com/tupavco-tp513-antenna-2-4ghz-17dbi/dp/b008z4i7wq>`_ 
 might come in handy to deflect attention to somewhere else.
+a                                                                       f 
+Some questions and answers from `amazon.com <https://www.amazon.com/tupavco-tp513-antenna-2-4ghz-17dbi/dp/b008z4i7wq>`_:
+
+  **Question:** What's it range ?
+  
+  **Answer 1:** It depends on what you’re connecting it to. I’m using an 
+  M2 bullet to grab a coffee shop WiFi signal (crappy non-boosted, meant 
+  just for people inside the building) from about 500 feet away. I have 
+  a mostly uninstructed view of the coffee shop.
+  
+  By Matthew D on December 28, 2019
+
+  **Answer 2:** About 200 ft between the guest house and the main house.
+  
+  By KAHN on June 29, 2016
