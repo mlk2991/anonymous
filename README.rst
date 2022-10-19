@@ -204,7 +204,7 @@ you might still be able to safe your anonymity through the VPN.
  **leaves no digital footprint** on the machine unless explicitly told 
  to do so.
 
-**Sources `1 <https://tails.boum.org/>`_ and `2 <https://en.wikipedia.org/wiki/Tails_(operating_system)>`_**
+ Sources `1 <https://tails.boum.org/>`_ and `2 <https://en.wikipedia.org/wiki/Tails_(operating_system)>`_
 
 **NOTE:**
 
