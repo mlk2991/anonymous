@@ -230,15 +230,19 @@ Both Tails and Whonix are operating systems that make use of Tor.
 Don't connect to Tor with your main computer that you use daily but use 
 an external HD along with Tails.
 
-Disk encryption and erasure should always be your best allies if you are 
+Disk `encryption <>`_ and `erasure <https://en.wikipedia.org/wiki/Data_erasure>`_ should always be your best allies if you are 
 very serious about security.
 
-**NOTE:** 
+**NOTES:**
+
+ Changing the encryption key renders inaccessible all data stored on 
+ a SED, which is an easy and very fast method for achieving a 100% data 
+ erasure.
 
  Data erasure may not work completely on flash based media, such as 
  Solid State Drives and USB Flash Drives.
  
- `Source <https://en.wikipedia.org/wiki/Data_erasure#Limitations>`_
+ `Source <https://en.wikipedia.org/wiki/Data_erasure`_
 
 4.4 Use a Yagi WiFi antenna
 ---------------------------
