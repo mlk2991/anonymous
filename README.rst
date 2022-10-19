@@ -58,7 +58,7 @@ to Tor but they are the worst, just ask Assange!
 Facebook, Apple and Microsoft\* are the other evil companies you must stay clear
 if you value your anonymity.
 
-\* Unfortunately Github joined the dark force.
+\* Unfortunately GitHub joined the dark force.
 
 Grand Master level tips
 =======================
