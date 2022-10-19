@@ -18,7 +18,8 @@ Don't login to your personal accounts (e.g. email, social media)
 Don't readily open any file (e.g. PDF, pictures, videos) no matter who sent it
 ==============================================================================
 If you need to open the file, do it on a controlled computer where the WiFi is turned off. Then
-check if the file tries to communicate with the outside using a packet analyzer (e.g. Wireshark).
+check the file with a packet analyzer (e.g. Wireshark) by looking if it tries to communicate 
+with the outside world.
 
 Don't write (e.g. emails, tweets) too personal
 ==============================================
