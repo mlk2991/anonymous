@@ -188,7 +188,7 @@ Main differences between Bitcoin and Monero:
 If you are using Bitcoin, you might be easily identified through
 your Bitcoin transactions that are publically available for anyone (e.g. 
 data analytics firms) to analyze. Thus Tor and Bitcoin is a bad combo if 
-you highly value your privacy and anonymity.
+you strongly value your privacy and anonymity.
 
 4. Grand Master level tips
 ==========================
