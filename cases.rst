@@ -1,6 +1,6 @@
-===========================================================================================
-How Criminals Were Identified By Authorities Even Though They Used Strong Security Software
-===========================================================================================
+========================================================================
+How Criminals Were Caught Even Though They Used Strong Security Software
+========================================================================
 
 .. contents:: **Table of Contents**
    :depth: 5
