@@ -136,7 +136,8 @@ unmask your real identity.
 
 .. TODO: add as footnote
 \* even if they might seem insignificant at first glance (e.g. an 
-innocuous picture you liked on twitter) might haunt you down the line
+innocuous picture you liked on twitter), they might still haunt you down 
+the line
 
 3.5 Avoid closed-source software, especially anything Google-related
 --------------------------------------------------------------------
