@@ -19,7 +19,7 @@ other tools.
 Finally, it is important to stress that these tips could be useful to activists or journalists
 living in repressive regimes who just want to safely communicate with the outside world.
 Any bit of personal information that they leak when going online could spell disaster and
-thus they have all the incentive to follow the stringent directives when using Tor.
+thus they have all the incentive to follow the most stringent directives when using Tor.
 
 .. TODO: add as footnote
 It has become almost cliche to say it but Tor is like any other tool that can be
