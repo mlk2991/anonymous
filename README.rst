@@ -17,6 +17,12 @@ Be super paranoid
 This state of mind might be overkill but will eventually protect your 
 anonymity as much as possible.
 
+Use the safest security level
+=============================
+ Safest: Only allows website features required for static sites and basic services. These changes affect images, media, and scripts.
+ 
+Your web experiene will tremendously suffer but your anonymity will be super protected.
+
 Don't login to your personal accounts (e.g. email, social media)
 ================================================================
 
