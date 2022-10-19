@@ -36,10 +36,12 @@ Don't login to your personal accounts (e.g. email, social media)
 
 Don't readily open any file (e.g. PDF, pictures, videos) no matter who sent it
 ------------------------------------------------------------------------------
-If you need to open the file, do it on a controlled computer where the WiFi is turned off. Then
+If you need to open the file, do it on a controlled computer where the **WiFi is turned off.** Then
 check the file with a packet analyzer (e.g. Wireshark) by looking if it tries to communicate 
 with the outside world. If it does, you dodged a bullet but then the fun begins to investigate
 the malicious file and who sent it.
+
+**Important tip:** open a file only when you are not connected to the internet.
 
 Don't upload any file (e.g. photos, videos)
 -------------------------------------------
