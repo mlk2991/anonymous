@@ -9,7 +9,7 @@ help you to avoid leaking all kinds of information that might uniquely
 identify you. 
 
 Always keep in mind that there are no foolproof tool that will provide you with
-privacy and anonymity in 100% of cases. When analyzed individually in a closed form, Tor is an anonymous software that
+privacy and anonymity in 100% of use cases. When analyzed individually in a closed form, Tor is an anonymous software that
 very much protect your real IP address but when it is used with/within other complex systems 
 (e.g. OS, USB devices), this is where things might get ugly.
 
