@@ -68,6 +68,9 @@ that might uniquely identify you. Remove these metadata before sending the file.
 
 Don't write (e.g. emails, tweets) too personal
 ----------------------------------------------
+ Anything you say online may be used against you to uniquely identify you
+
+Take this warning seriously when using Tor or you will be 
 
 Avoid tracking software, especially anything Google-related
 -----------------------------------------------------------
