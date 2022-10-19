@@ -60,5 +60,5 @@ Use Tails
 Use a Yagi WiFi antenna
 -----------------------
 If you are connecting to Tor, you might be the only one in your building that does so and
-hence you can be held suspect. This is where the Yagi WiFi antenna might come handy to deflect
-attention to somewhere else. 
+hence you can be held suspect. This is where the Yagi WiFi antenna might come in handy to 
+deflect attention to somewhere else. 
