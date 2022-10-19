@@ -91,6 +91,13 @@ super protected.
 ====================
 3.1 Don't login to your personal accounts (e.g. email, social media)
 --------------------------------------------------------------------
+This should self-evident. You might not be able to create throaway 
+accounts for all of your favorite websites because they might ask you to
+provide a phone number when registering. Also, careful to not use one of 
+your regular email addresses when registering anonymously.
+
+**Important tip:** Be always focused when connected to Tor so that you
+don't inadvertently login to one of your personal accounts. 
 
 3.2 Don't readily open any file (e.g. PDF, pictures, videos) no matter who sent it
 ----------------------------------------------------------------------------------
