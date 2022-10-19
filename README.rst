@@ -70,7 +70,7 @@ Combine Tor with a VPN
 
 Use Tails
 ---------
-Search *Tails* with your favorite non-tracking search engine but only when connected to Tor.  
+Search `Tails <https://en.wikipedia.org/wiki/Tails_(operating_system)>`_ with your favorite non-tracking search engine but only when connected to Tor.  
 
 Use a Yagi WiFi antenna
 -----------------------
