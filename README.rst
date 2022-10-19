@@ -10,7 +10,7 @@ identify you.
 
 Always keep in mind that there are no foolproof tool that will provide you with
 privacy and anonymity in 100% of cases. Tor is an anonymous software that individually
-might not expose your real IP address but when used with/within other complex systems 
+might not expose your real IP address but when it is used with/within other complex systems 
 (e.g. OS, USB devices), this is where things might get ugly.
 
 Thus we can say that the problem is not with the tool per se but how you use it with
