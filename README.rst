@@ -12,6 +12,11 @@ Tips on how to be (almost) anonymous with Tor
 .. Methods to be anonymous
 .. Tips to follow to avoid being easily identified
 
+Be super paranoid
+=================
+This state of mind might be overkill but will eventually protect your 
+anonymity as much as possible.
+
 Don't login to your personal accounts (e.g. email, social media)
 ================================================================
 
@@ -20,6 +25,11 @@ Don't readily open any file (e.g. PDF, pictures, videos) no matter who sent it
 If you need to open the file, do it on a controlled computer where the WiFi is turned off. Then
 check the file with a packet analyzer (e.g. Wireshark) by looking if it tries to communicate 
 with the outside world.
+
+Don't upload any file (e.g. photos, videos)
+===========================================
+If you still have to upload a file, then check it for any metadata (e.g. GPS locations, author) 
+that might uniquely identify you. Remove these metadata before sending the file.
 
 Don't write (e.g. emails, tweets) too personal
 ==============================================
