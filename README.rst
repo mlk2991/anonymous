@@ -16,6 +16,9 @@ might not expose your real IP address but when used with/within other complex sy
 Thus we can say that the problem is not with the tool per se but how you use it with
 other tools.
 
+To be anonymous with Tor is serious business as you can tell from the
+following forever incomplete list of tips.
+
 .. contents:: **Table of Contents**
    :depth: 5
    :local:
