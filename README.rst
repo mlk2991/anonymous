@@ -200,6 +200,8 @@ you might still be able to safe your anonymity through the VPN.
 
 4.2 Use Tails or Whonix
 -----------------------
+Both Tails and Whonix are operating systems that make use of Tor.
+
  **Tails**, or **The Amnesic Incognito Live System**, is a portable 
  operating system that protects against surveillance and censorship. 
 
@@ -210,9 +212,9 @@ you might still be able to safe your anonymity through the VPN.
 
  Sources `1 <https://tails.boum.org/>`_ and `2 <https://en.wikipedia.org/wiki/Tails_(operating_system)>`_
 
-**NOTE:**
+**Tails doesn't work on smartphones or tablets.**
 
- Tails doesn't work on smartphones or tablets.
+|
 
  `Whonix <https://www.whonix.org/>`_ a two-server solution running on 
  virtual machines: the gateway and the workstation. The gateway connects 
