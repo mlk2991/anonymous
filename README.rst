@@ -49,6 +49,9 @@ that might uniquely identify you. Remove these metadata before sending the file.
 Don't write (e.g. emails, tweets) too personal
 ----------------------------------------------
 
+Avoid tracking software, especially anything Google-related
+-----------------------------------------------------------
+
 Grand Master level tips
 =======================
 Combine Tor with a VPN
@@ -56,6 +59,7 @@ Combine Tor with a VPN
 
 Use Tails
 ---------
+Search *Tails* with your favorite non-tracking search engine but only when connected to Tor.  
 
 Use a Yagi WiFi antenna
 -----------------------
