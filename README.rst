@@ -24,7 +24,8 @@ Don't readily open any file (e.g. PDF, pictures, videos) no matter who sent it
 ==============================================================================
 If you need to open the file, do it on a controlled computer where the WiFi is turned off. Then
 check the file with a packet analyzer (e.g. Wireshark) by looking if it tries to communicate 
-with the outside world.
+with the outside world. If it does, you are dodge a bullet but then the fun begins to investigate
+the malicious file and who send it.
 
 Don't upload any file (e.g. photos, videos)
 ===========================================
