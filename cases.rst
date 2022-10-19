@@ -74,7 +74,7 @@ then you better pray that they don't loose their phones.
 Do you trust the members of your chat group with sensitive information?
 
 Maybe the kids show from the 80's, `Inspector Gadget <https://en.wikipedia.org/wiki/Inspector_Gadget_(1983_TV_series)>`_, 
-had it right: if you need to plan for a friend's surprise birthday, then 
+had it right: if you need to plan a friend's surprise birthday, then 
 communication between associates should be done in person through 
 self-destruct papers.
 
