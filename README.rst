@@ -8,4 +8,4 @@ them to break the law.
 **Table of Contents**
 =====================
 * `Tips On How To Be (Almost) Anonymous With Tor <./tips_tor.rst>`_
-* `Criminals Using Strong Security Software <./cases.rst>`_
+* `Case Analysis: Criminals Using Strong Security Software <./cases.rst>`_
