@@ -2,7 +2,7 @@
 Tips on how to be (almost) anonymous with Tor
 =============================================
 
-**Disclaimer:** these tips are for informational purposes. Don't break the law.
+**Disclaimer:** these tips are for informational purposes. Don't use them to break the law.
 
 .. contents:: **Table of Contents**
    :depth: 5
