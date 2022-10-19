@@ -63,7 +63,7 @@ the malicious file and sender.
 
 Don't upload any file (e.g. photos, videos)
 -------------------------------------------
-If you still have to upload a file, then check it for any metadata (e.g. GPS locations, author) 
+If you still have to upload a file, then check the file for any metadata (e.g. GPS locations, author) 
 that might uniquely identify you. Remove these metadata before sending the file.
 
 Don't write (e.g. emails, tweets) too personal
