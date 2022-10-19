@@ -110,7 +110,7 @@ your logging history (preferably from a country with no data retention laws).
 Be advised that when using Tor on top of a VPN, your internet speed might considerably drop
 if you have poor Internet speed connectivity from the onset.
 
-The good thing with this VPN+Tor combo is that if you inadvertently switch window from
+The good thing with this Tor+VPN combo is that if you inadvertently switch window from
 a Tor Browser to a Non-Tor browser (e.g. Firefox), you might still be able to safe your 
 anonymity through the VPN.
 
