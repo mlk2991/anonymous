@@ -1,6 +1,6 @@
-====================================================
-Tips on how to be (almost) anonymous online with Tor
-====================================================
+=============================================
+Tips on how to be (almost) anonymous with Tor
+=============================================
 
 **Disclaimer:** these tips are for informational purposes.
 
