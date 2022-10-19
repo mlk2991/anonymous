@@ -90,6 +90,10 @@ confusion instead by providing misleading information about yourself when writin
 
 Avoid closed-source software, especially anything Google-related
 ----------------------------------------------------------------
+ Closed-source software is easier for the NSA to backdoor than open-source software.
+ 
+ \- `Bruce Schneier <https://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance>`_
+ 
 Avoid anything that Google produces like the plague! Of course, they
 are not the only ones you need to absolutely avoid when using
 Tor but they are the worst, just ask `Assange <https://www.amazon.com/When-Google-WikiLeaks-Julian-Assange/dp/1944869115>`_!
@@ -101,12 +105,7 @@ Since you are super paranoid (see tip #1 above), just assume that any software (
 if closed source) coming from these wicked companies are riddled with 
 zero-day exploits that are just waiting to be activated to get you uniquely identify.
 
- Closed-source software is easier for the NSA to backdoor than open-source software.
- 
- \- `Bruce Schneier <https://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance>`_
-
-.. Key words you enter in a search engine or articles you read online could be used to eventually 
-identify you.
+.. Key words you enter in a search engine or articles you read online could be used to eventually identify you.
 
 .. TODO: add as footnote
 \* Unfortunately GitHub joined the dark force. Some might take this repo as 
