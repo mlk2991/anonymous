@@ -105,7 +105,7 @@ zero-day exploits that are just waiting to be activated to get you uniquely iden
  
  \- `Bruce Schneier <https://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance>`_
 
-Key words you enter in a search engine or articles you read online could be used to eventually 
+.. Key words you enter in a search engine or articles you read online could be used to eventually 
 identify you.
 
 .. TODO: add as footnote
@@ -154,7 +154,7 @@ Use an external HD
 Don't connect to Tor with your main computer that you use daily but use an 
 external HD along with Tails.
 
-Disk encryption and erasure should always be your best allies.
+Disk encryption and erasure should always be your best allies if you are very serious about security.
 
 **NOTE:** 
 
