@@ -164,10 +164,10 @@ are the worst, just ask `Assange <https://www.amazon.com/When-Google-WikiLeaks-J
 Facebook, Apple and Microsoft\* are the other evil companies you must 
 stay clear if you value your anonymity.
 
-Since you are super paranoid (see tip #1 above), just assume that any 
-software (especially if closed source) coming from these wicked companies 
-are riddled with zero-day exploits that are just waiting to be activated 
-to get you uniquely identify.
+Since you are super paranoid (see `tip #1 above <./README.rst/#table-of-contents>`_), 
+just assume that any software (especially if closed source) coming from 
+these wicked companies are riddled with zero-day exploits that are just 
+waiting to be activated to get you uniquely identify.
 
 .. TODO: add as footnote
 \* Unfortunately GitHub joined the dark force. Some might take this repo 
