@@ -51,6 +51,14 @@ Don't write (e.g. emails, tweets) too personal
 
 Avoid tracking software, especially anything Google-related
 -----------------------------------------------------------
+Avoid anything that Google produces like the plague! Of course, they
+are not the only ones you need to absolutely avoid when connecting
+to Tor but they are the worst, just ask Assange!
+
+Facebook, Apple and *Microsoft are the other evil companies you must stay clear
+if you value your anonymity.
+
+* Unfortunately Github joined the dark force.
 
 Grand Master level tips
 =======================
