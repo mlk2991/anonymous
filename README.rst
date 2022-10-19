@@ -91,7 +91,7 @@ super protected.
 ====================
 3.1 Don't login to your personal accounts (e.g. email, social media)
 --------------------------------------------------------------------
-This should self-evident. You might not be able to create throaway 
+This tip should be self-evident. You might not be able to create throaway 
 accounts for all of your favorite websites because they might ask you to
 provide a phone number when registering. Also, careful to not use one of 
 your regular email addresses when registering anonymously.
