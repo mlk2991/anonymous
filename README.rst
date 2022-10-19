@@ -1,6 +1,6 @@
 .. a                                                                       f                                                                             
 =============================================
-Tips on how to be (almost) anonymous with Tor
+Tips On How To Be (Almost) Anonymous With Tor
 =============================================                                                                       
 **Disclaimer:** these tips are for informational purposes. Don't use 
 them to break the law.
