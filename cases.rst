@@ -1,5 +1,5 @@
 ===================================================================
-Cases of wrongly using security software to be private or anonymous
+Cases Of Wrongly Using Security Software To Be Private or Anonymous
 ===================================================================
 
 Signal
