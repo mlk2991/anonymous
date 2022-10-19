@@ -17,35 +17,45 @@ Be super paranoid
 This state of mind might be overkill but will eventually protect your 
 anonymity as much as possible.
 
+Tor settings
+============
+Prioritze .onion sites when known
+---------------------------------
+For instance, when connecting to your *proton.me* account.
+
 Use the safest security level
-=============================
+-----------------------------
  Safest: Only allows website features required for static sites and basic services. These changes affect images, media, and scripts.
  
 Your web experiene will tremendously suffer but your anonymity will be super protected.
 
+Master level tips
+=================
 Don't login to your personal accounts (e.g. email, social media)
-================================================================
+----------------------------------------------------------------
 
 Don't readily open any file (e.g. PDF, pictures, videos) no matter who sent it
-==============================================================================
+------------------------------------------------------------------------------
 If you need to open the file, do it on a controlled computer where the WiFi is turned off. Then
 check the file with a packet analyzer (e.g. Wireshark) by looking if it tries to communicate 
 with the outside world. If it does, you dodged a bullet but then the fun begins to investigate
 the malicious file and who sent it.
 
 Don't upload any file (e.g. photos, videos)
-===========================================
+-------------------------------------------
 If you still have to upload a file, then check it for any metadata (e.g. GPS locations, author) 
 that might uniquely identify you. Remove these metadata before sending the file.
 
 Don't write (e.g. emails, tweets) too personal
-==============================================
+----------------------------------------------
 
+Grand Master level tips
+=======================
 Combine Tor with a VPN
-======================
+----------------------
 
 Use Tails
-=========
+---------
 
 Use a Yagi WiFi antenna
-=======================
+-----------------------
