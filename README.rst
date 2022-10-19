@@ -75,7 +75,11 @@ falls, then your anonymity can still be salvaged.
 -------------------------------------
 For instance, when connecting to your *proton.me* account.
 
-2.2 Use the safest security level
+2.2 Enable HTTPS-Only Mode in all windows
+-----------------------------------------
+Don't take the chance with websites that don't support HTTPS. Avoid them! 
+
+2.3 Use the safest security level
 ---------------------------------
  Safest: Only allows website features required for static sites and 
  basic services. These changes affect images, media, and scripts.
