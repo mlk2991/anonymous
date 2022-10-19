@@ -32,8 +32,8 @@ This state of mind might be overkill but will eventually protect your
 anonymity as much as possible.
 
 **IMPORTANT tip:** Always think of your anonymity in terms of layers. Put as many layers
-between your person and the site you are reaching with Tor. If one layer of 
-security falls, then your anonymity can still be salvaged.
+between your person and the site you are reaching with Tor (e.g. Tor+VPN+Yagi-antenna). If 
+one layer of security falls, then your anonymity can still be salvaged.
 
 Tor settings
 ============
@@ -107,7 +107,8 @@ Combine Tor with a VPN
 Check that the `VPN <https://en.wikipedia.org/wiki/VPN_service>`_ you are using don't keep 
 your logging history (preferably from a country with no data retention laws).
 
-Be advised that when using Tor on top of a VPN, your internet speed will drop. 
+Be advised that when using Tor on top of a VPN, your internet speed might considerably drop
+if you have poor Internet speed connectivity from the onset.
 
 The good thing with this VPN+Tor combo is that if you inadvertently switch window from
 a Tor Browser to a Non-Tor browser (e.g. Firefox), you might still be able to safe your 
