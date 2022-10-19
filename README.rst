@@ -63,10 +63,23 @@ if you value your anonymity.
 \* Unfortunately GitHub joined the dark force. Some might take this repo as 
 a way of protesting against the system directly from the enemy's den.
 
+Don't use Bitcoin, use Monero instead
+-------------------------------------
+Main differences between Bitcoin and Monero:
+
+ Monero's key features are those around **privacy** and **anonymity**. Even though it is a public 
+ and decentralized ledger, all transaction details are obfuscated. This contrasts to 
+ bitcoin, where all transaction details, user addresses, and wallet balances are public 
+ and transparent.
+ 
+ `Source <https://en.wikipedia.org/wiki/Monero#Privacy>`_
+
 Grand Master level tips
 =======================
 Combine Tor with a VPN
 ----------------------
+Check that the `VPN <https://en.wikipedia.org/wiki/VPN_service>`_ you are using don't keep 
+your logging history (preferably from a country with no data retention laws).
 
 Use Tails
 ---------
