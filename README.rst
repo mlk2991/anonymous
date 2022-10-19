@@ -40,9 +40,6 @@ because it attracts more clicks.
    :local:
    :backlinks: top
 
-.. Methods to be anonymous
-.. Tips to follow to avoid being easily identified
-
 0. Important notice: Not all tips need to be followed
 =====================================================
 It all depends on the level of security you 
