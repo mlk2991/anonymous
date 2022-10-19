@@ -85,7 +85,7 @@ used to identify you along with other evidence. Thus, avoid using expressions yo
 day to day life. Even words that you often mispell (e.g. than vs then) could be used along with dozen
 other clues to uniquely identify you.
 
-Don't talk about your personal life (e.g. how tall you are, languages you speak) when using Tor. Add
+Don't mention facts (e.g. how tall you are, languages you speak) about your personal life when using Tor. Add
 confusion instead by providing misleading information about yourself when writing online.
 
 Avoid closed-source software, especially anything Google-related
