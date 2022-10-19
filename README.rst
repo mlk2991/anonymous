@@ -88,7 +88,7 @@ Main differences between Bitcoin and Monero:
 
 If you are using Bitcoin, you might be easily identified through
 your Bitcoin transactions that are publically available for anyone (e.g. data analytics firms) 
-to analyze. Thus Tor and Bitcoin is a bad combo if you value your privacy and anonymity.
+to analyze. Thus Tor and Bitcoin is a bad combo if you highly value your privacy and anonymity.
 
 Grand Master level tips
 =======================
@@ -96,6 +96,12 @@ Combine Tor with a VPN
 ----------------------
 Check that the `VPN <https://en.wikipedia.org/wiki/VPN_service>`_ you are using don't keep 
 your logging history (preferably from a country with no data retention laws).
+
+Be advised that when using Tor on top of a VPN, your internet speed will drop. 
+
+The good thing with this VPN+Tor combo is that if you inadvertently switch window from
+a Tor Browser to a Non-Tor browser (e.g. Firefox), you might still be able to safe your 
+anonymity through the VPN.
 
 Use Tails
 ---------
