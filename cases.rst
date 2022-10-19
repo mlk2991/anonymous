@@ -20,6 +20,10 @@ Signal
 
 Retired Green Beret arrested on Capitol siege charge (2021)
 -----------------------------------------------------------
+ In modern cryptosystems, the weakest link is often the human user
+  
+ `Source <https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis#Details>`_
+
 **News articles:**
 
 - `Former Special Forces soldier and onetime congressional candidate 
@@ -29,7 +33,7 @@ Retired Green Beret arrested on Capitol siege charge (2021)
   Jan. 6 Capitol riot (2021)
   <https://taskandpurpose.com/news/army-special-forces-arrested-capitol-riots/>`_ [taskandpurpose]
 
-Some people that uses the encrypted instant messaging app `Signal 
+Some people that use the encrypted instant messaging app `Signal 
 <https://en.wikipedia.org/wiki/Signal_(software)>`_ have a false sense 
 of security that anything they write on the app will forever remain 
 private between the concerned users. 
@@ -38,6 +42,28 @@ However as this case shows, if only one of the members of the chat group
 cooperate with the authorities by revealing the encrypted messages, then 
 it doesn't matter that you are using the most advanced encrypted texting 
 app in the world.
+
+ Implementing the latest most advanced equipment and security safeguards 
+ are to no avail if all the users are not properly trained to be part of 
+ the security plan.
+ 
+ `Source <https://www.sans.org/white-papers/738/>`_
+
+Also, even if you only communicated with people that you have high
+confidence that they are loyal to you, at the end of the day everyone
+has their price. Worse if you live in a repressed regime where `torture 
+<https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis>`_ is commonly 
+practiced by the authorities to extract sensitive information, 
+then people will quickly reveal the contents of the encrypted conversations 
+to save themselves. In more liberal countries, they won't beat you but 
+they will use psychological abuse which can be as effective as torture to
+get important information.
+
+.. raw:: html
+   
+   <p align="center">
+    <img src="https://www.torontocitylife.com/wp-content/uploads/2014/06/Encryption-in-the-Real-World-550x336.jpg">
+   </p>
 
 If members of a chat group on Signal (or from any other encrypted messaging
 app like Telegram) use very weak security on their phone (easy or no 
