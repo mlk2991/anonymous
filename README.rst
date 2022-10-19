@@ -36,8 +36,8 @@ focus more on the negative aspects of Tor because it attracts more clicks.
 .. Methods to be anonymous
 .. Tips to follow to avoid being easily identified
 
-Be super paranoid
-=================
+1. Be super paranoid
+====================
 This state of mind might be overkill but will eventually protect your 
 anonymity as much as possible.
 
@@ -45,25 +45,25 @@ anonymity as much as possible.
 between your person and the site you are reaching with Tor (e.g. Tor+VPN+Yagi-antenna). If 
 one layer of security falls, then your anonymity can still be salvaged.
 
-Tor settings
-============
-Prioritze .onion sites when known
----------------------------------
+2. Tor settings
+===============
+2.1 Prioritze .onion sites when known
+-------------------------------------
 For instance, when connecting to your *proton.me* account.
 
-Use the safest security level
------------------------------
+2.2 Use the safest security level
+---------------------------------
  Safest: Only allows website features required for static sites and basic services. These changes affect images, media, and scripts.
  
 Your web experiene will tremendously suffer but your anonymity will be super protected.
 
-Master level tips
-=================
-Don't login to your personal accounts (e.g. email, social media)
-----------------------------------------------------------------
+3. Master level tips
+====================
+3.1 Don't login to your personal accounts (e.g. email, social media)
+--------------------------------------------------------------------
 
-Don't readily open any file (e.g. PDF, pictures, videos) no matter who sent it
-------------------------------------------------------------------------------
+3.2 Don't readily open any file (e.g. PDF, pictures, videos) no matter who sent it
+----------------------------------------------------------------------------------
 If you need to open the file, do it on a controlled computer where the **WiFi is turned off.** Then
 check the file with a packet analyzer (e.g. Wireshark) by looking if it tries to communicate 
 with the outside world. If it does, you dodged a bullet but then the fun begins to investigate
@@ -71,13 +71,13 @@ the malicious file and sender.
 
 **Important tip:** open a file only when you are not connected to the internet.
 
-Don't upload any file (e.g. photos, videos)
--------------------------------------------
+3.3 Don't upload any file (e.g. photos, videos)
+-----------------------------------------------
 If you still have to upload a file, then check the file for any metadata (e.g. GPS locations, author) 
 that might uniquely identify you. Remove these metadata before sending the file.
 
-Don't write (e.g. emails, tweets) too personal
-----------------------------------------------
+3.4 Don't write (e.g. emails, tweets) too personal
+--------------------------------------------------
  Anything you say online may be used against you to uniquely identify you
 
 Take this warning seriously when using Tor or you will be sorely disappointed. Your writing style might be
@@ -88,8 +88,8 @@ other clues to uniquely identify you.
 Don't mention facts (e.g. how tall you are, languages you speak) about your personal life when using Tor. Add
 confusion instead by providing misleading information about yourself when writing online.
 
-Avoid closed-source software, especially anything Google-related
-----------------------------------------------------------------
+3.5 Avoid closed-source software, especially anything Google-related
+--------------------------------------------------------------------
  Closed-source software is easier for the NSA to backdoor than open-source software.
  
  \- `Bruce Schneier <https://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance>`_
@@ -111,8 +111,8 @@ zero-day exploits that are just waiting to be activated to get you uniquely iden
 \* Unfortunately GitHub joined the dark force. Some might take this repo as 
 a way of protesting against the system directly from the enemy's den.
 
-Don't use Bitcoin, use Monero instead
--------------------------------------
+3.6 Don't use Bitcoin, use Monero instead
+-----------------------------------------
 Main differences between Bitcoin and Monero:
 
  Monero's key features are those around **privacy** and **anonymity**. Even though it is a public 
@@ -126,12 +126,12 @@ If you are using Bitcoin, you might be easily identified through
 your Bitcoin transactions that are publically available for anyone (e.g. data analytics firms) 
 to analyze. Thus Tor and Bitcoin is a bad combo if you highly value your privacy and anonymity.
 
-Grand Master level tips
-=======================
-Spoof you MAC address
----------------------
-Combine Tor with a VPN
-----------------------
+4. Grand Master level tips
+==========================
+4.1 Spoof you MAC address
+-------------------------
+4.2 Combine Tor with a VPN
+--------------------------
 Check that the `VPN <https://en.wikipedia.org/wiki/VPN_service>`_ you are using don't keep 
 your logging history (preferably from a country with no data retention laws).
 
@@ -142,14 +142,14 @@ The good thing with this Tor+VPN combo is that if you inadvertently switch windo
 a Tor Browser to a Non-Tor browser (e.g. Firefox), you might still be able to safe your 
 anonymity through the VPN.
 
-Use Tails
----------
+4.3 Use Tails
+-------------
 Search `Tails <https://en.wikipedia.org/wiki/Tails_(operating_system)>`_ with your favorite non-tracking search engine via Tor.  
 
 **Tails doesn't work on smartphones or tablets.**
 
-Use an external HD
-------------------
+4.4 Use an external HD
+----------------------
 Don't connect to Tor with your main computer that you use daily but use an 
 external HD along with Tails.
 
@@ -161,8 +161,8 @@ Disk encryption and erasure should always be your best allies if you are very se
  
  `Source <https://en.wikipedia.org/wiki/Data_erasure#Limitations>`_
 
-Use a Yagi WiFi antenna
------------------------
+4.5 Use a Yagi WiFi antenna
+---------------------------
 If you are connecting through a WiFi network shared by multiple people, 
 you might be the only one in the group that uses Tor and
 hence you can be held suspect by those that are monitoring your internet connection. This 
