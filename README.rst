@@ -80,10 +80,16 @@ Don't write (e.g. emails, tweets) too personal
 ----------------------------------------------
  Anything you say online may be used against you to uniquely identify you
 
-Take this warning seriously when using Tor or you will be 
+Take this warning seriously when using Tor or you will be sorely disappointed. Your writing style might be
+used to identify you along with other evidence. Thus, avoid using expressions you use often in your
+day to day life. Even words that you often mispell (e.g. than vs then) could be used along with dozen
+other clues to uniquely identify you.
 
-Avoid tracking software, especially anything Google-related
------------------------------------------------------------
+Don't talk about your personal life (e.g. how tall you are, languages you speak) when using Tor. Add
+confusion instead by providing misleading information about yourself.
+
+Avoid closed-source software, especially anything Google-related
+----------------------------------------------------------------
 Avoid anything that Google produces like the plague! Of course, they
 are not the only ones you need to absolutely avoid when using
 Tor but they are the worst, just ask `Assange <https://www.amazon.com/When-Google-WikiLeaks-Julian-Assange/dp/1944869115>`_!
@@ -91,9 +97,20 @@ Tor but they are the worst, just ask `Assange <https://www.amazon.com/When-Googl
 Facebook, Apple and Microsoft\* are the other evil companies you must stay clear
 if you value your anonymity.
 
-Since you are super paranoid (see tip #1 above), just assume that any software
-coming from these satanic companies are riddled with 
+Since you are super paranoid (see tip #1 above), just assume that any software (especially 
+if closed source) coming from these satanic companies are riddled with 
 zero-day exploits that are just waiting to be activated to get you uniquely identify.
+
+ Closed-source software is easier for the NSA to backdoor than open-source software.
+ 
+ \- `Bruce Schneier <https://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance>`_
+
+Key words you enter in a search engineor articles you read online could be used to eventually 
+identify you.
+
+**Example:**
+1. You send an email with proton.me [Your IP
+2. Then you decide to search at what time the
 
 .. TODO: add as footnote
 \* Unfortunately GitHub joined the dark force. Some might take this repo as 
@@ -136,15 +153,25 @@ Search `Tails <https://en.wikipedia.org/wiki/Tails_(operating_system)>`_ with yo
 
 **Tails doesn't work on smartphones or tablets.**
 
-Use a disposable device
------------------------
-Don't connect to Tor through your main computer that you use daily but use another
-computer with Tails.
+Use an external HD
+------------------
+Don't connect to Tor with your main computer that you use daily but use an 
+external HD along with Tails.
 
+Disk encryption and erasure should always be your best allies.
+
+**NOTE:** 
+
+ Data erasure may not work completely on flash based media, such as Solid State Drives and USB Flash Drives.
+ 
+ `Source <https://en.wikipedia.org/wiki/Data_erasure#Limitations>`_
 
 Use a Yagi WiFi antenna
 -----------------------
-If you are connecting through a WiFi network shared by your whole building, 
-you might be the only one in your building that uses Tor and
-hence you can be held suspect by those that are monitoring your internet connection. This 
-is where the Yagi WiFi antenna might come in handy to deflect attention to somewhere else.
+If you are connecting through a WiFi network shared by multiple people, 
+you might be the only one in the group that uses Tor and
+hence you can be held suspect by those that are monitoring your internet connection\*. This 
+is where the `Yagi WiFi antenna <https://www.amazon.com/tupavco-tp513-antenna-2-4ghz-17dbi/dp/b008z4i7wq>`_ 
+might come in handy to deflect attention to somewhere else.
+
+\* See for instance, the `Harvard bomb hoax (2013) <https://www.dailydot.com/unclick/tor-harvard-bomb-suspect/>`_
