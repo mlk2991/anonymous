@@ -2,7 +2,7 @@
 ========================================
 Criminals Using Strong Security Software
 ========================================
-Disclaimer: the analysis of the following cases are for informational 
+**Disclaimer:** the analysis of the following cases are for informational 
 purposes. Don't use it to break the law.
 
 .. contents:: **Table of Contents**
