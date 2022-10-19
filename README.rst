@@ -130,7 +130,7 @@ unmask your real identity.
 **NOTE:**
 
  Keep in mind that repressive governments have tremendous power to move 
- earth and mountains to find all the breadcrumbs\* you leave behind on
+ heaven and earth to find all the breadcrumbs\* you leave behind on
  your journey through the internet and piece them all together to 
  reveal who you really are.
 
