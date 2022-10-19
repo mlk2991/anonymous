@@ -86,7 +86,7 @@ day to day life. Even words that you often mispell (e.g. than vs then) could be 
 other clues to uniquely identify you.
 
 Don't talk about your personal life (e.g. how tall you are, languages you speak) when using Tor. Add
-confusion instead by providing misleading information about yourself.
+confusion instead by providing misleading information about yourself when writing online.
 
 Avoid closed-source software, especially anything Google-related
 ----------------------------------------------------------------
@@ -98,19 +98,15 @@ Facebook, Apple and Microsoft\* are the other evil companies you must stay clear
 if you value your anonymity.
 
 Since you are super paranoid (see tip #1 above), just assume that any software (especially 
-if closed source) coming from these satanic companies are riddled with 
+if closed source) coming from these wicked companies are riddled with 
 zero-day exploits that are just waiting to be activated to get you uniquely identify.
 
  Closed-source software is easier for the NSA to backdoor than open-source software.
  
  \- `Bruce Schneier <https://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance>`_
 
-Key words you enter in a search engineor articles you read online could be used to eventually 
+Key words you enter in a search engine or articles you read online could be used to eventually 
 identify you.
-
-**Example:**
-1. You send an email with proton.me [Your IP
-2. Then you decide to search at what time the
 
 .. TODO: add as footnote
 \* Unfortunately GitHub joined the dark force. Some might take this repo as 
