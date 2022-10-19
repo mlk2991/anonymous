@@ -58,7 +58,8 @@ Tor but they are the worst, just ask `Assange <https://www.amazon.com/When-Googl
 Facebook, Apple and Microsoft\* are the other evil companies you must stay clear
 if you value your anonymity.
 
-\* Unfortunately GitHub joined the dark force.
+\* Unfortunately GitHub joined the dark force. Some might take this repo as 
+a way of protesting against the system directly from the enemy's den.
 
 Grand Master level tips
 =======================
