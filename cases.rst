@@ -11,8 +11,7 @@ the software but because the criminals wrongly used these programs.
 
 The average users that use these security software for legitimate uses need 
 to learn how to use them so they don't complain about the supposedly 
-lack of security from these programs if sensitive information about their 
-private lives leak.
+lack of security from these programs.
 
 .. contents:: **Table of Contents**
    :depth: 5
