@@ -108,7 +108,7 @@ Harvard Bomb Hoax (2013)
   <https://www.dailydot.com/unclick/tor-harvard-bomb-suspect/>`_ [dailydot]
 - `Why TOR failed to hide the bomb hoaxer at Harvard (2013) <https://theprivacyblog.com/blog/anonymity/why-tor-failed-to-hide-the-bomb-hoaxer-at-harvard>`_ [theprivacyblog]
 
-Everything you do online even if you do it while connected to Tor can 
+Everything you do online even if you do it while connected to Tor could 
 be eventually correlated to unmask you.
 
 This is basically how the Harvard bomb hoaxer might have been caught. The
