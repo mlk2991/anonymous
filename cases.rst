@@ -123,8 +123,8 @@ name since you need to authenticate with your campus ID to access the
 school's WiFi network) was logged into Harvard University's server logs.
 
 The timestamps from the school's logs and the emails were certainly 
-correlated to suggest strongly him being the author of the bomb threats 
-and also the fact that not many people used Tor on campus, so the number 
+correlated to strongly suggest him being the author of the bomb threats.
+Plus, not many people used Tor on campus, so the number 
 of suspects was probably very low. We need to also consider 
 the student succumbing to fear of having majorly screwed up his life and 
 confessing right away to the police, looking for a plea bargain.
